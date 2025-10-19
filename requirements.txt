@@ -18,5 +18,8 @@ mediapipe==0.10.9
 opencv-python==4.8.1.78
 scikit-learn==1.3.2
 joblib==1.3.2
-numpy==1.24.3
+numpy==1.26.4
+jax==0.4.38
+jaxlib==0.4.38
+ml-dtypes==0.4.1
 protobuf==3.20.3
